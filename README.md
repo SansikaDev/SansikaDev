@@ -9,6 +9,7 @@ Also yes… coffee powers like 90% of my code ☕⚡
 ---
 
 ## 🌐 Socials
+[![Website](https://img.shields.io/badge/Website-sansika.info-blue?style=for-the-badge&logo=google-chrome)](https://sansika.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sansika-kodithuwakku/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sansika)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sansika.sansikx@gmail.com)
